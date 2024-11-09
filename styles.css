@@ -1,1 +1,19 @@
-/*  your css code here. If applicable */
+
+.container{
+	display:flex;
+	justify-content:space-evenly;
+   text-align:center;
+}
+#mg{
+  height:200px;
+  width:350px ;	
+}
+.fun{
+  width:300px
+}
+button{
+	background-color:red;
+	color:white;
+}
+
+
